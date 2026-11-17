@@ -1,8 +1,8 @@
 class To < Formula
   desc "Command-line measurement unit converter"
-  homepage "https://github.com/sarcasticbird/to"
-  url "https://github.com/sarcasticbird/to/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "7751a0e8343a6e37d75c011c8db5aa9157a3503fc6bd7caf1a6456a342ecef70"
+  homepage "https://github.com/sarcasticbirds/to"
+  url "https://github.com/sarcasticbirds/to/archive/refs/tags/v2.1.0.tar.gz"
+  sha256 "a020a49002bf525097456c70015bb2dbb65cac2e86b5ee60db2af57f1fa5aa67"
   license "Apache-2.0"
 
   depends_on "go" => :build
